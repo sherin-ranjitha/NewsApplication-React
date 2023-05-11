@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NewsApplication-React/static/css/main.abd64e84.css",
+    "main.js": "/NewsApplication-React/static/js/main.74b92cf8.js",
+    "static/js/787.4c026eef.chunk.js": "/NewsApplication-React/static/js/787.4c026eef.chunk.js",
+    "static/media/Iphone-spinner-2.gif": "/NewsApplication-React/static/media/Iphone-spinner-2.d3fbaf2b81fd92c49692.gif",
+    "index.html": "/NewsApplication-React/index.html",
+    "main.abd64e84.css.map": "/NewsApplication-React/static/css/main.abd64e84.css.map",
+    "main.74b92cf8.js.map": "/NewsApplication-React/static/js/main.74b92cf8.js.map",
+    "787.4c026eef.chunk.js.map": "/NewsApplication-React/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.74b92cf8.js"
+  ]
+}
